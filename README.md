@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 README.md
+=======
+#README.md
+>>>>>>> 618b5bce65ecf79a08e65f047693981e88b93e35
 
 
 0x11. C - printf team project
